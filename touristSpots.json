@@ -1,0 +1,221 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Kabul",
+      "unitPrice": 760,
+      "imageUrl": "https://i.postimg.cc/W3v7JVJJ/download.jpg",
+      "latitude": 34.543896,
+      "longitude": 69.160652,
+      "touristSpots": [
+        {
+          "name": "Babur Gardens (Bagh-e Babur)",
+          "description": "A historical garden built by Emperor Babur in the 16th century, beautifully restored and offering a peaceful view of Kabul."
+        },
+        {
+          "name": "Kabul Museum (National Museum of Afghanistan)",
+          "description": "One of the oldest museums in Central Asia, housing ancient artifacts from the Greek, Buddhist, and Islamic periods."
+        },
+        {
+          "name": "Darul Aman Palace",
+          "description": "A grand European-style palace built in the 1920s, symbolizing Afghanistan’s modernization and resilience."
+        },
+        {
+          "name": "Shah-Do Shamshira Mosque",
+          "description": "A unique yellow mosque in downtown Kabul, known for its Baroque-style architecture and historical significance."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Bamyan",
+      "unitPrice": 930,
+      "imageUrl": "https://i.postimg.cc/FsxP4787/BIN-1.webp",
+      "latitude": 34.8216,
+      "longitude": 67.8273,
+      "touristSpots": [
+        {
+          "name": "Buddhas of Bamiyan",
+          "description": "The remains of two giant Buddha statues carved into the cliffs, once among the largest in the world and a UNESCO World Heritage site."
+        },
+        {
+          "name": "Band-e Amir National Park",
+          "description": "Afghanistan’s first national park, famous for its stunning blue lakes surrounded by majestic mountains."
+        },
+        {
+          "name": "Shahr-e Gholghola (City of Screams)",
+          "description": "The ancient ruins of a city destroyed by Genghis Khan, offering a panoramic view over the Bamiyan valley."
+        },
+        {
+          "name": "Dragon Valley (Darya-e Azhdaha)",
+          "description": "A natural rock formation resembling a dragon, surrounded by legends and beautiful landscapes."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 3,
+      "name": "Gardiz",
+      "unitPrice": 15,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-3.jpg",
+      "latitude": 33.599651,
+      "longitude": 69.229088,
+      "touristSpots": [
+        {
+          "name": "Gardiz City Park",
+          "description": "A popular recreational park in the center of Gardiz, where families gather for picnics and relaxation."
+        },
+        {
+          "name": "Shahzada Masjid (Prince Mosque)",
+          "description": "One of the main mosques in Gardiz, known for its traditional Afghan-Islamic architecture."
+        },
+        {
+          "name": "Zazi Aryob Mountains",
+          "description": "A scenic mountain range near Gardiz, perfect for hiking and exploring the natural beauty of Paktia province."
+        },
+        {
+          "name": "Sardawaza Fort",
+          "description": "An ancient fort located on a hill overlooking Gardiz, offering a glimpse into the region’s historical defense structures."
+        }
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 4,
+      "name": "Balkh",
+      "unitPrice": 550,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-4.jpg",
+      "latitude": 36.7564,
+      "longitude": 66.8972,
+      "touristSpots": [
+        {
+          "name": "Blue Mosque (Shrine of Hazrat Ali)",
+          "description": "A stunning mosque in Mazar-i-Sharif, famous for its blue tiles and as a sacred site believed to house the tomb of Hazrat Ali."
+        },
+        {
+          "name": "Balkh Ancient City",
+          "description": "Ruins of one of the oldest cities in the world, known as the 'Mother of Cities', with historical monuments and archaeological sites."
+        },
+        {
+          "name": "Mazar Garden",
+          "description": "A peaceful garden near the city center, ideal for relaxation and enjoying the local culture."
+        },
+        {
+          "name": "Ariana Afghan Airlines Monument",
+          "description": "A historical monument commemorating Afghan aviation, located near Mazar-i-Sharif airport."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 5,
+      "name": "Herat",
+      "unitPrice": 600,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-5.jpg",
+      "latitude": 34.343044,
+      "longitude": 62.199074,
+      "touristSpots": [
+        {
+          "name": "Herat Grand Mosque (Jame Mosque of Herat)",
+          "description": "One of the oldest and most beautiful mosques in Afghanistan, famous for its stunning blue tiles and Islamic architecture."
+        },
+        {
+          "name": "Citadel of Herat (Qala Ikhtyaruddin)",
+          "description": "An ancient fortress built during Alexander the Great’s time, offering panoramic views of Herat city."
+        },
+        {
+          "name": "Gawhar Shad Mausoleum (Musalla Complex)",
+          "description": "A masterpiece of Timurid architecture, built by Queen Gawhar Shad in the 15th century."
+        },
+        {
+          "name": "Khwaja Abdullah Ansari Shrine (Gazar Gah)",
+          "description": "The sacred shrine of the famous Sufi saint Khwaja Abdullah Ansari, located on a hill outside Herat."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Kandahar",
+      "unitPrice": 450,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-6.jpg",
+      "latitude": 31.739847,
+      "longitude": 65.75592,
+      "touristSpots": [
+        {
+          "name": "Shrine of Hazrat Ali (Blue Mosque of Kandahar)",
+          "description": "A sacred Islamic shrine in Kandahar, believed to house the tomb of Hazrat Ali, famous for its beautiful blue tiles."
+        },
+        {
+          "name": "Kandahar Citadel (Qala-e-Kandahar)",
+          "description": "A historic fortress in the city center, serving as a symbol of Kandahar’s rich history and strategic importance."
+        },
+        {
+          "name": "Mausoleum of Ahmad Shah Durrani",
+          "description": "The resting place of the founder of modern Afghanistan, located in a beautifully designed garden."
+        },
+        {
+          "name": "Registan Garden",
+          "description": "A historic and scenic garden in Kandahar, popular for relaxation and cultural gatherings."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Nuristan",
+      "unitPrice": 1100,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-7.jpg",
+      "latitude": 35.325,
+      "longitude": 70.907,
+      "touristSpots": [
+        {
+          "name": "Kamdesh Valley",
+          "description": "A stunning valley surrounded by high mountains and rivers, perfect for trekking and exploring nature."
+        },
+        {
+          "name": "Waygal Valley",
+          "description": "A beautiful valley known for its lush forests, traditional Nuristani villages, and scenic landscapes."
+        },
+        {
+          "name": "Nuristani Museum (Parun)",
+          "description": "A museum showcasing the unique culture, history, and artifacts of the Nuristani people."
+        },
+        {
+          "name": "Pej Valley",
+          "description": "A picturesque valley famous for its rivers, forests, and traditional wooden architecture of Nuristan."
+        }
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Badakhshan",
+      "unitPrice": 800,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-8.jpg",
+      "latitude": 36.734773,
+      "longitude": 70.811995,
+      "touristSpots": [
+        {
+          "name": "Wakhan Corridor",
+          "description": "A narrow strip of land surrounded by high mountains, famous for its stunning landscapes and unique culture."
+        },
+        {
+          "name": "Fayzabad Bazaar",
+          "description": "The central market of Badakhshan, vibrant with local trade, handicrafts, and traditional Afghan culture."
+        },
+        {
+          "name": "Baharak Valley",
+          "description": "A scenic valley known for its rivers, orchards, and peaceful rural life."
+        },
+        {
+          "name": "Ishkashim Border Area",
+          "description": "A picturesque border area with beautiful views of the Panj River and neighboring Tajikistan."
+        }
+      ],
+      "soldOut": true
+    }
+  ]
+}
