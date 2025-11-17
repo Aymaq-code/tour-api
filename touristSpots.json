@@ -3,8 +3,9 @@
   "data": [
     {
       "id": 1,
-      "name": "Kabul",
-      "unitPrice": 760,
+      "name": "Kabul Chronicles: A Timeless Capital Journey",
+      "adultPrice": 560,
+      "childPrice": 490,
       "imageUrl": "https://i.postimg.cc/W3v7JVJJ/download.jpg",
       "latitude": 34.543896,
       "longitude": 69.160652,
@@ -26,12 +27,34 @@
           "description": "A unique yellow mosque in downtown Kabul, known for its Baroque-style architecture and historical significance."
         }
       ],
+      "gallery": [
+        { "kblImage__1": "https://i.postimg.cc/2S4KqHCY/kbl1.jpg" },
+        { "kblImage__2": "https://i.postimg.cc/1Rr0NLF1/kbl2.jpg" },
+        { "kblImage__3": "https://i.postimg.cc/LXH5d08g/kbl3.jpg" },
+        { "kblImage__4": "https://i.postimg.cc/KzqZ6GW9/kbl4.jpg" }
+      ],
+      "days": "6 Days",
+      "pax": "1-7 People",
+      "accommodation": [
+        {
+          "3__stars": "Mövenpick Hotel Apartments Al Mamzar Dubai",
+          "4__stars": "Single Room with 1 Double Bed",
+          "price": 85
+        }
+      ],
+      "extra__services": [
+        { "transfer": "Airport Pick-up / Drop-off Service" },
+        { "translator": "English Language Translator" },
+        { "insurance": "Travel Insurance" },
+        { "midnight": "Midnight City Tour (9 PM – 2 AM)" }
+      ],
       "soldOut": false
     },
     {
       "id": 2,
-      "name": "Bamyan",
-      "unitPrice": 930,
+      "name": "Bamyan Wonders: Valley of Legendary Beauty",
+      "adultPrice": 760,
+      "childPrice": 690,
       "imageUrl": "https://i.postimg.cc/FsxP4787/BIN-1.webp",
       "latitude": 34.8216,
       "longitude": 67.8273,
@@ -53,12 +76,15 @@
           "description": "A natural rock formation resembling a dragon, surrounded by legends and beautiful landscapes."
         }
       ],
+      "days": "8 Days",
+      "pax": "1-20 People",
       "soldOut": false
     },
     {
       "id": 3,
-      "name": "Paktia",
-      "unitPrice": 15,
+      "name": "Paktia Trails: The Heart of Mountain Serenity",
+      "adultPrice": 400,
+      "childPrice": 400,
       "imageUrl": "https://i.postimg.cc/tCKqVdjc/Afghanistan-paktia.jpg",
       "latitude": 33.599651,
       "longitude": 69.229088,
@@ -80,12 +106,15 @@
           "description": "An ancient fort located on a hill overlooking Gardiz, offering a glimpse into the region’s historical defense structures."
         }
       ],
+      "days": "4 Days",
+      "pax": "1-4 People",
       "soldOut": true
     },
     {
       "id": 4,
-      "name": "Balkh",
-      "unitPrice": 550,
+      "name": "Balkh Heritage: Echoes of the Ancient Silk Road",
+      "adultPrice": 595,
+      "childPrice": 595,
       "imageUrl": "https://i.postimg.cc/3RjyRLV8/mazar.jpg",
       "latitude": 36.7564,
       "longitude": 66.8972,
@@ -107,12 +136,15 @@
           "description": "A historical monument commemorating Afghan aviation, located near Mazar-i-Sharif airport."
         }
       ],
+      "days": "5 Days",
+      "pax": "1-12 People",
       "soldOut": false
     },
     {
       "id": 5,
-      "name": "Herat",
-      "unitPrice": 600,
+      "name": "Herat Splendor: A Journey Through Persian Artistry",
+      "adultPrice": 710,
+      "childPrice": 650,
       "imageUrl": "https://i.postimg.cc/2SmCjkYP/herat.jpg",
       "latitude": 34.343044,
       "longitude": 62.199074,
@@ -134,11 +166,13 @@
           "description": "The sacred shrine of the famous Sufi saint Khwaja Abdullah Ansari, located on a hill outside Herat."
         }
       ],
+      "days": "7 Days",
+      "pax": "1-12 People",
       "soldOut": false
     },
     {
       "id": 6,
-      "name": "Kandahar",
+      "name": "Kandahar Legacy: Land of Kings and Traditions",
       "unitPrice": 450,
       "imageUrl": "https://i.postimg.cc/RFPWK3SD/kandahar.jpg",
       "latitude": 31.739847,
@@ -161,12 +195,15 @@
           "description": "A historic and scenic garden in Kandahar, popular for relaxation and cultural gatherings."
         }
       ],
+      "days": "5 Days",
+      "pax": "1-5 People",
       "soldOut": false
     },
     {
       "id": 7,
-      "name": "Nuristan",
-      "unitPrice": 1100,
+      "name": "Nuristan Mystique: Into the Forested Highlands",
+      "adultPrice": 830,
+      "childPrice": 830,
       "imageUrl": "https://i.postimg.cc/FHcGpvJn/nuristan.jpg",
       "latitude": 35.325,
       "longitude": 70.907,
@@ -188,12 +225,15 @@
           "description": "A picturesque valley famous for its rivers, forests, and traditional wooden architecture of Nuristan."
         }
       ],
+      "days": "8 Days",
+      "pax": "1-12 People",
       "soldOut": false
     },
     {
       "id": 8,
-      "name": "Badakhshan",
-      "unitPrice": 800,
+      "name": "Badakhshan Majesty: Roof of the World Expedition",
+      "adultPrice": 950,
+      "childPrice": 830,
       "imageUrl": "https://i.postimg.cc/26mkHn8R/badakhshan.jpg",
       "latitude": 36.734773,
       "longitude": 70.811995,
@@ -215,6 +255,8 @@
           "description": "A picturesque border area with beautiful views of the Panj River and neighboring Tajikistan."
         }
       ],
+      "days": "11 Days",
+      "pax": "1-8 People",
       "soldOut": true
     }
   ]
