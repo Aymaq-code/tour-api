@@ -38,8 +38,18 @@
       "accommodation": [
         {
           "3__stars": "Mövenpick Hotel Apartments Al Mamzar Dubai",
-          "4__stars": "Single Room with 1 Double Bed",
+          "roome": "Single Room with 1 Double Bed",
           "price": 85
+        },
+        {
+          "4__stars": "Dubai Festival City by IHG",
+          "roome": "Single Room with 1 Double Bed",
+          "price": 115
+        },
+        {
+          "5__stars": "JA Palm Tree Court",
+          "roome": "Single Room with 1 Double Bed",
+          "price": 160
         }
       ],
       "extra__services": [
