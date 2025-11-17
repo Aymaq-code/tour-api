@@ -27,12 +27,13 @@
           "description": "A unique yellow mosque in downtown Kabul, known for its Baroque-style architecture and historical significance."
         }
       ],
-      "gallery": [
-        { "kblImage__1": "https://i.postimg.cc/2S4KqHCY/kbl1.jpg" },
-        { "kblImage__2": "https://i.postimg.cc/1Rr0NLF1/kbl2.jpg" },
-        { "kblImage__3": "https://i.postimg.cc/LXH5d08g/kbl3.jpg" },
-        { "kblImage__4": "https://i.postimg.cc/KzqZ6GW9/kbl4.jpg" }
-      ],
+     "gallery": [
+  "https://i.postimg.cc/2S4KqHCY/kbl1.jpg",
+  "https://i.postimg.cc/1Rr0NLF1/kbl2.jpg",
+  "https://i.postimg.cc/LXH5d08g/kbl3.jpg",
+  "https://i.postimg.cc/KzqZ6GW9/kbl4.jpg"
+],
+
       "days": "6 Days",
       "pax": "1-7 People",
       "accommodation": [
