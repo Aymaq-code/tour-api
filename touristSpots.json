@@ -57,12 +57,33 @@
   }
 ],
 
-      "extra__services": [
-        { "transfer": "Airport Pick-up / Drop-off Service" },
-        { "translator": "English Language Translator" },
-        { "insurance": "Travel Insurance" },
-        { "midnight": "Midnight City Tour (9 PM – 2 AM)" }
-      ],
+     "extra__services": [
+  {
+    "id": 1,
+    "title": "Airport Pick-up / Drop-off Service",
+    "description": "Private transfer between airport and hotel",
+    "price": 35
+  },
+  {
+    "id": 2,
+    "title": "English Language Translator",
+    "description": "Personal translator to assist during tours",
+    "price": 60
+  },
+  {
+    "id": 3,
+    "title": "Travel Insurance",
+    "description": "Coverage for medical and travel emergencies",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "title": "Midnight City Tour (9 PM – 2 AM)",
+    "description": "Night tour of major attractions and city lights",
+    "price": 40
+  }
+],
+
       "soldOut": false
     },
     {
