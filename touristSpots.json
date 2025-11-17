@@ -36,23 +36,27 @@
 
       "days": "6 Days",
       "pax": "1-7 People",
-      "accommodation": [
-        {
-          "3__stars": "Mövenpick Hotel Apartments Al Mamzar Dubai",
-          "roome": "Single Room with 1 Double Bed",
-          "price": 85
-        },
-        {
-          "4__stars": "Dubai Festival City by IHG",
-          "roome": "Single Room with 1 Double Bed",
-          "price": 115
-        },
-        {
-          "5__stars": "JA Palm Tree Court",
-          "roome": "Single Room with 1 Double Bed",
-          "price": 160
-        }
-      ],
+    "accommodation": [
+  {
+    "stars": 3,
+    "hotel": "Mövenpick Hotel Apartments Al Mamzar Dubai",
+    "room": "Single Room with 1 Double Bed",
+    "price": 85
+  },
+  {
+    "stars": 4,
+    "hotel": "Dubai Festival City by IHG",
+    "room": "Single Room with 1 Double Bed",
+    "price": 115
+  },
+  {
+    "stars": 5,
+    "hotel": "JA Palm Tree Court",
+    "room": "Single Room with 1 Double Bed",
+    "price": 160
+  }
+],
+
       "extra__services": [
         { "transfer": "Airport Pick-up / Drop-off Service" },
         { "translator": "English Language Translator" },
