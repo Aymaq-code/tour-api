@@ -183,7 +183,8 @@
     {
       "id": 6,
       "name": "Kandahar Legacy: Land of Kings and Traditions",
-      "unitPrice": 450,
+       "adultPrice": 560,
+      "childPrice": 490,
       "imageUrl": "https://i.postimg.cc/RFPWK3SD/kandahar.jpg",
       "latitude": 31.739847,
       "longitude": 65.75592,
